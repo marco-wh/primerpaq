@@ -1,0 +1,7 @@
+README.md
+setup.py
+primerpaq/__init__.py
+primerpaq.egg-info/PKG-INFO
+primerpaq.egg-info/SOURCES.txt
+primerpaq.egg-info/dependency_links.txt
+primerpaq.egg-info/top_level.txt
